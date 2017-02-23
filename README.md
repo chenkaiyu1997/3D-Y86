@@ -6,7 +6,7 @@
 
 Understanding how CPU works can be difficult, so this project is designed to help us understand with graphical lights and circuit components. Given Y86 instruction codes, it demonstrates every state of a pipelined cpu step by step, display state data clearly, and show the transferring process with light trails.
   
-## How to Run
+## How to Run It
 
 Download the 3D_Y86.zip, extract it, and run Y86_3D.exe in a Windows 64-bit system.
 
