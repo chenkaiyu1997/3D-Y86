@@ -6,7 +6,7 @@
 
 Understanding how CPU works can be difficult, so this project is designed to help us understand with graphical lights and circuit components. Given Y86 instruction codes, it demonstrates every state of a pipelined cpu step by step, display state data clearly, and show the transferring process with light trails.
 
-The core code(what simulates Y86 code) is provided by my partner Yixu Gao.
+The core code(what simulates Y86 code) is provided by my friend Yixu Gao.
   
 ## How to Run It
 
