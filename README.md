@@ -12,11 +12,11 @@ Download the 3D_Y86.zip, extract it, and run Y86_3D.exe in a Windows 64-bit syst
 
 
 ## Demo
-![image](https://github.com/chenkaiyu1997/3D-Y86/raw/master/1.png)
+![image](https://github.com/chenkaiyu1997/3D-Y86/raw/master/1.PNG)
 <hr>
-![image](https://github.com/chenkaiyu1997/3D-Y86/raw/master/2.png)
+![image](https://github.com/chenkaiyu1997/3D-Y86/raw/master/2.PNG)
 <hr>
-![image](https://github.com/chenkaiyu1997/3D-Y86/raw/master/3.png)
+![image](https://github.com/chenkaiyu1997/3D-Y86/raw/master/3.PNG)
 <hr>
-![image](https://github.com/chenkaiyu1997/3D-Y86/raw/master/4.png)
+![image](https://github.com/chenkaiyu1997/3D-Y86/raw/master/4.PNG)
 
