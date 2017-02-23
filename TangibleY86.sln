@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangibleY86.Plugins", "TangibleY86.Plugins.csproj", "{14124D98-624E-5EFF-1866-269D68EC52C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangibleY86", "TangibleY86.csproj", "{80FAA55D-9382-4965-5DC2-2BCB900E3C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangibleY86.Editor", "TangibleY86.Editor.csproj", "{778C311B-3956-FC08-6B74-2FE3C67247AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14124D98-624E-5EFF-1866-269D68EC52C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14124D98-624E-5EFF-1866-269D68EC52C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14124D98-624E-5EFF-1866-269D68EC52C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14124D98-624E-5EFF-1866-269D68EC52C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FAA55D-9382-4965-5DC2-2BCB900E3C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FAA55D-9382-4965-5DC2-2BCB900E3C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FAA55D-9382-4965-5DC2-2BCB900E3C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FAA55D-9382-4965-5DC2-2BCB900E3C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778C311B-3956-FC08-6B74-2FE3C67247AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778C311B-3956-FC08-6B74-2FE3C67247AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778C311B-3956-FC08-6B74-2FE3C67247AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778C311B-3956-FC08-6B74-2FE3C67247AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1f5cd0de796ee2948ab8088f836b32c4
+timeCreated: 1481212256
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Terminator Real NFI
+  fontNames:
+  - Terminator Real NFI
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
